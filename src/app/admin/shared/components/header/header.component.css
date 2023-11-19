@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+span{
+    margin-left: 1rem;
+}
+
+button{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+mat-icon{
+    color: white;
+}
